@@ -1,0 +1,106 @@
+product_id,product_name,category,unit_price
+P01001,Electronics Product 1,Electronics,357.14
+P01002,Electronics Product 2,Electronics,260.38
+P01003,Electronics Product 3,Electronics,66.72
+P01004,Electronics Product 4,Electronics,46.52
+P01005,Electronics Product 5,Electronics,84.35
+P01006,Electronics Product 6,Electronics,227.41
+P01007,Electronics Product 7,Electronics,259.11
+P01008,Electronics Product 8,Electronics,416.37
+P01009,Electronics Product 9,Electronics,50.4
+P01010,Electronics Product 10,Electronics,455.7
+P01011,Electronics Product 11,Electronics,409.27
+P01012,Electronics Product 12,Electronics,442.89
+P01013,Electronics Product 13,Electronics,465.58
+P01014,Electronics Product 14,Electronics,210.37
+P01015,Electronics Product 15,Electronics,201.24
+P02001,Fashion Product 1,Fashion,190.11
+P02002,Fashion Product 2,Fashion,196.15
+P02003,Fashion Product 3,Fashion,45.39
+P02004,Fashion Product 4,Fashion,116.15
+P02005,Fashion Product 5,Fashion,162.75
+P02006,Fashion Product 6,Fashion,54.05
+P02007,Fashion Product 7,Fashion,358.78
+P02008,Fashion Product 8,Fashion,170.97
+P02009,Fashion Product 9,Fashion,77.29
+P02010,Fashion Product 10,Fashion,23.96
+P02011,Fashion Product 11,Fashion,459.11
+P02012,Fashion Product 12,Fashion,238.87
+P02013,Fashion Product 13,Fashion,416.4
+P02014,Fashion Product 14,Fashion,380.63
+P02015,Fashion Product 15,Fashion,237.21
+P03001,Home & Kitchen Product 1,Home & Kitchen,309.6
+P03002,Home & Kitchen Product 2,Home & Kitchen,453.4
+P03003,Home & Kitchen Product 3,Home & Kitchen,14.41
+P03004,Home & Kitchen Product 4,Home & Kitchen,111.75
+P03005,Home & Kitchen Product 5,Home & Kitchen,79.01
+P03006,Home & Kitchen Product 6,Home & Kitchen,470.41
+P03007,Home & Kitchen Product 7,Home & Kitchen,306.4
+P03008,Home & Kitchen Product 8,Home & Kitchen,214.51
+P03009,Home & Kitchen Product 9,Home & Kitchen,389.21
+P03010,Home & Kitchen Product 10,Home & Kitchen,122.63
+P03011,Home & Kitchen Product 11,Home & Kitchen,65.31
+P03012,Home & Kitchen Product 12,Home & Kitchen,123.03
+P03013,Home & Kitchen Product 13,Home & Kitchen,321.28
+P03014,Home & Kitchen Product 14,Home & Kitchen,313.29
+P03015,Home & Kitchen Product 15,Home & Kitchen,36.09
+P04001,Beauty Product 1,Beauty,419.16
+P04002,Beauty Product 2,Beauty,252.42
+P04003,Beauty Product 3,Beauty,270.35
+P04004,Beauty Product 4,Beauty,317.82
+P04005,Beauty Product 5,Beauty,289.65
+P04006,Beauty Product 6,Beauty,360.68
+P04007,Beauty Product 7,Beauty,149.18
+P04008,Beauty Product 8,Beauty,5.77
+P04009,Beauty Product 9,Beauty,179.64
+P04010,Beauty Product 10,Beauty,287.48
+P04011,Beauty Product 11,Beauty,97.72
+P04012,Beauty Product 12,Beauty,335.77
+P04013,Beauty Product 13,Beauty,264.12
+P04014,Beauty Product 14,Beauty,183.5
+P04015,Beauty Product 15,Beauty,476.93
+P05001,Sports Product 1,Sports,274.32
+P05002,Sports Product 2,Sports,394.27
+P05003,Sports Product 3,Sports,256.27
+P05004,Sports Product 4,Sports,15.07
+P05005,Sports Product 5,Sports,437.3
+P05006,Sports Product 6,Sports,26.55
+P05007,Sports Product 7,Sports,196.51
+P05008,Sports Product 8,Sports,189.78
+P05009,Sports Product 9,Sports,374.92
+P05010,Sports Product 10,Sports,181.76
+P05011,Sports Product 11,Sports,38.44
+P05012,Sports Product 12,Sports,124.36
+P05013,Sports Product 13,Sports,330.27
+P05014,Sports Product 14,Sports,56.31
+P05015,Sports Product 15,Sports,293.04
+P06001,Books Product 1,Books,379.56
+P06002,Books Product 2,Books,71.04
+P06003,Books Product 3,Books,179.39
+P06004,Books Product 4,Books,172.58
+P06005,Books Product 5,Books,323.18
+P06006,Books Product 6,Books,416.04
+P06007,Books Product 7,Books,343.92
+P06008,Books Product 8,Books,490.51
+P06009,Books Product 9,Books,241.87
+P06010,Books Product 10,Books,95.23
+P06011,Books Product 11,Books,71.75
+P06012,Books Product 12,Books,359.44
+P06013,Books Product 13,Books,472.08
+P06014,Books Product 14,Books,23.31
+P06015,Books Product 15,Books,104.79
+P07001,Grocery Product 1,Grocery,396.6
+P07002,Grocery Product 2,Grocery,443.47
+P07003,Grocery Product 3,Grocery,161.22
+P07004,Grocery Product 4,Grocery,158.49
+P07005,Grocery Product 5,Grocery,202.12
+P07006,Grocery Product 6,Grocery,408.63
+P07007,Grocery Product 7,Grocery,239.33
+P07008,Grocery Product 8,Grocery,23.13
+P07009,Grocery Product 9,Grocery,325.22
+P07010,Grocery Product 10,Grocery,146.62
+P07011,Grocery Product 11,Grocery,431.76
+P07012,Grocery Product 12,Grocery,28.66
+P07013,Grocery Product 13,Grocery,329.59
+P07014,Grocery Product 14,Grocery,140.24
+P07015,Grocery Product 15,Grocery,400.67
